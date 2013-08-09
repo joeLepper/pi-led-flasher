@@ -1,0 +1,28 @@
+{
+  "name": "pi-led-flasher",
+  "version": "0.0.3",
+  "description": "A package to flash an LED on the rPi",
+  "main": "flasher.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joeLepper/pi-led-flasher.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "rpi",
+    "led",
+    "flash"
+  ],
+  "author": "Joe Lepper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeLepper/pi-led-flasher/issues"
+  },
+  "dependencies": {
+    "pi-gpio": "0.0.2"
+  }
+}
